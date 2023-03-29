@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 ruby '>= 2.7.0', '< 3.3.0'
 
 gem 'puma'
-gem 'sqlite3'
 gem 'rails', '6.1.7.3'
 gem 'rouge', '~> 4.1.0'
 gem 'request_store', '~> 1.5.0'
